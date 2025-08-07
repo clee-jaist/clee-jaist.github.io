@@ -51,6 +51,7 @@ table {
   font-size: 1em;
   line-height: 1.5em;
   color: #150c21;
+  background-color: #f0f0f0; 
 }
 
 #main {
@@ -108,9 +109,6 @@ h1 {
 
 #intro-image img {
     width: 200px;
-    height: 200px;
-    object-fit: contain; /* 改成这个 */
-    object-position: center center;
 }
 
 /**************************************************/
