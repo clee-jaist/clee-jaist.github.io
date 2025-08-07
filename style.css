@@ -107,8 +107,10 @@ h1 {
 }
 
 #intro-image img {
-width: 200px;
-height: auto;
+    width: 200px;
+    height: 200px;
+    object-fit: contain; /* 改成这个 */
+    object-position: center center;
 }
 
 /**************************************************/
