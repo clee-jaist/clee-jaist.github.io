@@ -99,7 +99,7 @@ h1 {
 }
 
 #intro-image {
-  margin: 2.7em 0 0 2em; /* 位置不变 */
+  margin: 2.7em 0 0 0; /* 位置不变 */
   width: 8.4em;
   height: 11.76em;
   float: left;
