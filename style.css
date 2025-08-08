@@ -98,18 +98,18 @@ h1 {
   float: left;
 }
 
-/*#intro-image {
-  margin: 2.7em 2em 0 2em; *//* 位置不变 *//*
-  width: 8.4em;
-  height: 11.76em;
+#intro-image {
+  margin: 2.7em 0 0 2em;
+  width: 12em;
+  height: 16.8em;
   float: left;
   overflow: hidden;
-  border-radius: 0.7em; *//* 边角也等比例缩小 *//*
-}*/
+  border-radius: 1em;
+}
 
 #intro-image img {
     width: 200px;
-    height: 280px;
+    height: auto;
 }
 
 /**************************************************/
