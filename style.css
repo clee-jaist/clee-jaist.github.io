@@ -108,8 +108,8 @@ h1 {
 }
 
 #intro-image img {
-    width: 140px;
-    height: 196px;
+    width: 200px;
+    height: auto;
 }
 
 /**************************************************/
