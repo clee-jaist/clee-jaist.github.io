@@ -102,8 +102,8 @@ h1 {
   margin: 2.7em 0 0 2em; /* 位置不变 */
   width: 8.4em;
   height: 11.76em;
-/*  float: left;*/
-  overflow: hidden;
+  float: left;
+  /*overflow: hidden;*/
   border-radius: 0.7em; /* 边角也等比例缩小 */
 }
 
