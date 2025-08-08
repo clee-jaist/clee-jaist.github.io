@@ -99,11 +99,11 @@ h1 {
 }
 
 #intro-image {
-  margin: 2.7em 0 0 0;
+  margin: 2.7em 0 0 2em;
   width: 8.5714em;
   height: 12em;
   float: left;
-  overflow: hidden;
+/*  overflow: hidden;*/
   border-radius: 1em;
 }
 
