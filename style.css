@@ -99,16 +99,16 @@ h1 {
 }
 
 #intro-image {
-  margin: 2.7em 0 0 2em;
-  width: 8em;
-  height: 11.2em;
+  margin: 2.7em 0 0 2em; /* 位置不变 */
+  width: 8.4em;
+  height: 11.76em;
   float: left;
   overflow: hidden;
-  border-radius: 1em;
+  border-radius: 0.7em; /* 边角也等比例缩小 */
 }
 
 #intro-image img {
-    width: 200px;
+    width: 140px;
     height: auto;
 }
 
