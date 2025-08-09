@@ -199,11 +199,13 @@ h2 {
 
 .list-item.service {
   line-height: 1.5em;
+   font-size: 1em;
 /*  margin-bottom: 1.5em; */
 }
 
 .list-item.misc {
   line-height: 1.5em;
+   font-size: 1em;
 /*  margin-bottom: 1.5em;*/
 }
 /**************************************************/
